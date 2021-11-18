@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Fernanda Nunes 
-- Actually having class about information system;
+- Hi, I’m Fernanda Nunes;
+- Studing about information system;
+- Looking to be part of grand projects;
 - 📫 How to reach me "nunesadm9@gmail.com"
 
 <!---
