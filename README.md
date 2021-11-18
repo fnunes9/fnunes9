@@ -1,5 +1,5 @@
 - Hi, I’m Fernanda Nunes;
-- Studing about information system;
+- Information System student;
 - Looking to be part of grand projects;
 - 📫 How to reach me "nunesadm9@gmail.com"
 
