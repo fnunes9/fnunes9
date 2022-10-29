@@ -1,6 +1,6 @@
 - Hi, I’m Fernanda Nunes;
 - Information System student;
-- Looking to became me the best Developer that the world sow;
+- Looking to became me the best Developer that the world have seen;
 - 📫 How to reach me "nunesadm9@gmail.com"
 
 <!---
