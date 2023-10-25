@@ -1,4 +1,3 @@
-- Hi, I’m Fernanda Nunes;
 - Information System student;
 - Studying to became me the best Data Scientist that this world have seen;
 - 📫 How to reach me "nunesadm9@gmail.com"
