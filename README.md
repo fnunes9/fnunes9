@@ -1,5 +1,5 @@
-- Information System student;
-- 👔 Supervisora de Projetos em Jogos Digitais 2D;
+- Estudante de Sistemas de Informação na UNA;
+- Supervisora de Projetos em Jogos Digitais 2D;
 
 <div>
     <a href="https://github.com/AndDevI/github-readme-stats">
