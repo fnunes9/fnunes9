@@ -16,7 +16,7 @@
   <img align="center" alt="fnunes9-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="fnunes9-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="fnunes9-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="fnunes9-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript.js/javascript-original.svg" />   
+  <img align="center" alt="fnunes9-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/JavaScript/javascript-original.svg" />   
 </div>
 
 ##
