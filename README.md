@@ -1,15 +1,3 @@
-# Olá! Eu sou Fernanda Nunes 👋
-### Data Engineer | Apaixonada por lógica, análise de dados e desenvolvimento de soluções inteligentes
-
----
-
-💡 **Sobre mim**  
-Sou profissional em transição para a área de **Data Engineering**, com foco em análise de dados, automação e consumo de APIs. Possuo **forte raciocínio lógico**, habilidade para resolver problemas complexos e vontade de transformar dados em insights estratégicos.  
-
-Busco oportunidades onde possa aplicar meus conhecimentos em **Python, SQL, Java, Docker, JavaScript e tecnologias de front-end**, contribuindo com projetos que envolvam **processamento de dados, pipelines e otimização de sistemas**.
-
----
-
 ## Estatísticas do GitHub
 
 <div>
@@ -47,18 +35,3 @@ Busco oportunidades onde possa aplicar meus conhecimentos em **Python, SQL, Java
 </div>
 
 ---
-
-## Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnunes9/fnunes9/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnunes9/fnunes9/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fnunes9/fnunes9/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 🎯 Objetivos
-- Atuar na área de **Data Engineering**, desenvolvendo pipelines, integração e análise de dados.  
-- Aplicar **raciocínio lógico e resolução de problemas** em projetos complexos.  
-- Contribuir para equipes de tecnologia com foco em **automação, otimização de processos e APIs**.
